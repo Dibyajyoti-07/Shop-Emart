@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109227415205",
+    "project_id": "shop-emart",
+    "storage_bucket": "shop-emart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109227415205:android:7a0ccab18ac80ed1295f4c",
+        "android_client_info": {
+          "package_name": "com.dibya.market.shop_emart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhceRAol4N_xyIZnGVeKOoyicXsEBcWI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
